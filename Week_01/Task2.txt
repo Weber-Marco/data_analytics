@@ -1,0 +1,23 @@
+Use-Case 1: Price prediction model for rental apartments in the canton of Zuerich
+
+Number Number
+m2
+Net rent
+Add'l Expenses
+rent
+Description
+Address
+Cordination
+Availability
+Type of House
+Number of Floors
+Last refurbishment
+Year Built
+Characterictics (Tags)
+Contact
+Listing identify
+Object Reference 
+Images
+Videos
+
+Use-Case (2): Demand and supply for supermarkets in Swiss municipalities

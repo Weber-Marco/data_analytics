@@ -1,0 +1,16 @@
+Demand and supply for supermarkets in Swiss municipalities
+
+1. Problem definition (identify one or more potential problem(s)). 
+The Business Development needs to Predict the amount of sales the different supermarkets will have in the future. 
+
+2. Objective (define a clear objective based on the problem definition). 
+Predict the purchasing behaviours of customers with help of predictions of purchasing power. 
+
+3. Research question (formulate a research question based on the objective). 
+How will the purchasing power of customers in different municipalities change?
+
+4. Hypothesis (formulate a clear hypothesis based on the research question). 
+There is a correlation between purchasing behaviours in supermarkets and purchasing power. 
+
+5. Expected added value of the data analysis (business value of data analytics).
+Knowledge about needed extensions and downsizes of local supermarkt stores. 
